@@ -1,3 +1,3 @@
 # MCTS_Assignment
 
-# Usage
+This is the repository for our MCTS assignment
